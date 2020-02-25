@@ -1,0 +1,11 @@
+/Users/vasantgoswami/Desktop/CSharp/obj/Debug/netcoreapp3.1/CSharp.csprojAssemblyReference.cache
+/Users/vasantgoswami/Desktop/CSharp/obj/Debug/netcoreapp3.1/CSharp.AssemblyInfoInputs.cache
+/Users/vasantgoswami/Desktop/CSharp/obj/Debug/netcoreapp3.1/CSharp.AssemblyInfo.cs
+/Users/vasantgoswami/Desktop/CSharp/bin/Debug/netcoreapp3.1/CSharp
+/Users/vasantgoswami/Desktop/CSharp/bin/Debug/netcoreapp3.1/CSharp.deps.json
+/Users/vasantgoswami/Desktop/CSharp/bin/Debug/netcoreapp3.1/CSharp.runtimeconfig.json
+/Users/vasantgoswami/Desktop/CSharp/bin/Debug/netcoreapp3.1/CSharp.runtimeconfig.dev.json
+/Users/vasantgoswami/Desktop/CSharp/bin/Debug/netcoreapp3.1/CSharp.dll
+/Users/vasantgoswami/Desktop/CSharp/bin/Debug/netcoreapp3.1/CSharp.pdb
+/Users/vasantgoswami/Desktop/CSharp/obj/Debug/netcoreapp3.1/CSharp.dll
+/Users/vasantgoswami/Desktop/CSharp/obj/Debug/netcoreapp3.1/CSharp.pdb

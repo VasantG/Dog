@@ -1,4 +1,4 @@
-applies .gitingore
+applied .gitingore
 using System;
 
 namespace CSharp
